@@ -1,0 +1,93 @@
+img 
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .spacing
+  {
+    margin-top:1%;
+  }
+  table
+  {
+    width:98%;
+    margin:auto;
+    height:auto;
+    border-spacing: 2px;
+  }
+  td
+  {
+    width:auto;
+    height:auto;
+    padding:2px;
+  }
+  .symbol
+  {
+    text-align:center;
+    font-size: 2vw;
+    font-weight: bold;
+  }
+  .number
+  {
+    vertical-align:bottom;
+    font-size: 1vw;
+  }
+  .weight
+  {
+    text-align:right;
+    font-size: 1vw;
+  }
+  p
+  {
+    margin:0;
+  }
+  .blue
+  {
+    background-color:rgba(39, 23, 255, 0.89);
+    border:1px solid white;
+  }
+  .orange
+  {
+    background-color: rgb(248, 183, 61);
+    border:1px solid white;
+  }
+  .purple
+  {
+    background-color: rgba(172, 13, 172, 0.815);
+    border:1px solid  white;
+  }
+  .yellow
+  {
+    background-color: rgba(255, 255, 0, 0.747);
+    border:1px solid  white;
+  }
+  .bright-purple
+  {
+    background-color: rgb(117, 76, 212);
+    border:1px solid  white;
+  }
+  .green
+  {
+    background-color: rgb(0, 177, 0);
+    border:1px solid  white;
+  }
+  .pink
+  {
+    background-color: rgb(255, 138, 138);
+    border:1px solid  white;
+  }
+  .red
+  {
+    background-color: red;
+    border:1px solid  white;
+  }
+  .light-blue
+  {
+    background-color: rgb(106, 170, 212);
+    border:1px solid  white;
+  }
+  .lime-green
+  {
+    background-color: rgb(104, 255, 66);
+    border:1px solid  white;
+  }

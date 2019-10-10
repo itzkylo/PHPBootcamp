@@ -1,0 +1,105 @@
+body 
+{
+    background-color: #555555;
+}
+.container
+{
+    background-color: #555555;
+    height: 900px;
+    width: 1450px;
+    margin: auto;
+	border-radius: 15px;
+	position: relative;
+}
+.top
+{
+    background-color: #918f8f;
+    height: 140px;
+    width: 1400px;
+    box-shadow: 10px 10px 10px;
+    margin: auto;
+	border-radius: 15px;
+	position: relative;
+}
+.left
+{
+    background-color: #918f8f;
+    height: 500px;
+    width: 150px;
+    box-shadow: 10px 10px 10px;
+    margin: auto;
+	border-radius: 15px;
+    position: absolute;
+    left: 50px;
+    top: 160px;
+}
+.right
+{
+    background-color: #918f8f;
+    height: 500px;
+    width: 150px;
+    box-shadow: 10px 10px 10px;
+    margin: auto;
+	border-radius: 15px;
+    position: absolute;
+    right: 50px;
+    top: 160px;
+}
+.middle
+{
+    background-color: #918f8f;
+    height: 650px;
+    width: 970px;
+    box-shadow: 10px 10px 10px;
+    margin: auto;
+	border-radius: 15px;
+    position: relative;
+    top: 20px;
+}
+.wall
+{
+    background: url(./resources/brick.jpg);
+    background-repeat: "true";
+    height: 100px;
+    width: 120px;
+    position: absolute;
+    top: 250px;
+    left: 15px;
+}
+.messagebox 
+{
+	background-color: #88FF89;
+	box-shadow: 10px 10px 10px;
+	border-radius: 15px;
+	height: 170px;
+	width: 600px;
+	position: absolute;
+	left: 150px;
+	bottom: 65px;
+}
+p1 
+{
+	font-style: italic;
+}
+change1 
+{
+	font-size: 30pt;
+	font-family: serif;
+}
+change2 
+{
+	text-shadow: 5px 5px 2px red;
+}
+form 
+{
+	display: inline;
+	font-size: 20px;
+	position: absolute;
+	bottom: 50px;
+	left: 10px;
+}
+
+input 
+{
+	display: inline;
+}
